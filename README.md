@@ -4,7 +4,7 @@ This repository contains a set of beginner-level C++ projects completed as part 
 
 ---
 
-## 📌 Included Projects
+## Included Projects
 
 ### 🎯 Number Guessing Game
 A terminal-based guessing game where the user tries to guess a randomly generated number within limited attempts.
@@ -17,12 +17,12 @@ A basic calculator that performs arithmetic operations (addition, subtraction, m
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 C++, Functions, Loops, Conditionals, Console I/O, STL (if applicable)
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 - `number_guessing_game.cpp` – Console-based number guessing game  
 - `tic_tac_toe.cpp` – Two-player Tic Tac Toe implementation  
@@ -31,7 +31,7 @@ C++, Functions, Loops, Conditionals, Console I/O, STL (if applicable)
 
 ---
 
-## 🚀 How to Compile and Run
+## How to Compile and Run
 
 ```bash
 g++ number_guessing_game.cpp -o guess
