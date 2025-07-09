@@ -36,3 +36,4 @@ C++, Functions, Loops, Conditionals, Console I/O, STL (if applicable)
 ```bash
 g++ number_guessing_game.cpp -o guess
 ./guess
+```
